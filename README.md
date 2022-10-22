@@ -1,8 +1,9 @@
-# better_self_flutter
+# Flutter Crash Course
 
 A new Flutter project.
 
 ## Getting Started
+[Youtube tutorial](https://www.youtube.com/watch?v=1gDhl4leEzA&ab_channel=TraversyMedia)
 
 This project is a starting point for a Flutter application.
 
